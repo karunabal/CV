@@ -1,0 +1,18 @@
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# System and editor files
+.DS_Store
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Local agent/browser artifacts
+.claude/
+.playwright-mcp/
